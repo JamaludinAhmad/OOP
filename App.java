@@ -7,5 +7,10 @@ public class App {
         System.out.println("Belajar Java");
         System.out.println("Sangat mudah sekali");
         System.out.println("dan sangat menyenangkan");
+
+        // soal no 2
+        String masukan = JOptionPane.showInputDialog(null, "Anda sedang belajar apa? ");
+
+        JOptionPane.showMessageDialog(null, "Belajar " + masukan + " sangat mudah");
     }
 }
