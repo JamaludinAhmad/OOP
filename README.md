@@ -11,6 +11,3 @@ pada tanggal 20 september 2022 java meluncurkan versi java 19 di halaman officia
 3. pencocokan pattern untuk switch, Hal ini memungkinkan pengguna untuk mengekspresikan kueri berorientasi data yang kompleks secara ringkas dan aman.
 4. function asing dan memori API, Hal ini menghasilkan peningkatan kemudahan penggunaan, kinerja, fleksibilitas, dan keamanan.
 5. Vector API, Memungkinkan performa superior dibandingkan dengan komputasi skalar yang setara dengan mengekspresikan komputasi vektor yang dikompilasi dengan andal saat runtime ke instruksi vektor pada arsitektur CPU yang didukung
-
-
-contoh sdkfjshkahfkajshdklfjhfskjdfhs
